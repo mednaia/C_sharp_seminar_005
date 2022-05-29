@@ -27,10 +27,9 @@ while(Fibonacci(i)<number)
 // int result = 0;
 // Console.Write($"{firstValue} {secondValue} ");
 
-// while(result < N)
+// while(firstValue + secondValue < N)
 // {
 //     result = firstValue + secondValue;
-//     if(result > N) break;
 //     Console.Write(result + " ");
 //     firstValue = secondValue;
 //     secondValue = result;
